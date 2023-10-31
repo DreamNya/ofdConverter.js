@@ -1,0 +1,6 @@
+*.vscode
+/example/
+/test/
+/lib/src/
+/lib/target/*
+!/lib/target/*.jar
