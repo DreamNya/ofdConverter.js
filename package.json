@@ -1,0 +1,27 @@
+{
+  "name": "ofdconverter.js",
+  "version": "1.0.0",
+  "description": "通过Node.js调用Java库将ofd格式转换为目标格式",
+  "main": "./src/ofdConverter.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },  
+  "typings": "./src/ofdConverter.d.ts",
+  "author": "DreamNya",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamNya/ofdConverter.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DreamNya/ofdConverter.js/issues"
+  },
+  "homepage": "https://github.com/DreamNya/ofdConverter.js#readme",
+  "keywords": [
+    "ofd",
+    "converter"
+  ]
+}
