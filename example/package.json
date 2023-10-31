@@ -1,0 +1,15 @@
+{
+  "name": "ofd2png2pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "OFDtoPNGtoPDF.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DreamNya",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pngjs": "^7.0.0"
+  }
+}
